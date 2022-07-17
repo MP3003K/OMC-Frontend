@@ -1,5 +1,5 @@
 import Axios from 'axios'
 
 export const api = Axios.create({
-    baseURL: 'http://54.161.151.93/api'
+    baseURL: 'http://18.206.231.160/api'
 });
